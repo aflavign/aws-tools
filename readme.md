@@ -36,6 +36,7 @@ export AWS_SECRET_ACCESS_KEY="<your secret key>"
 export AWS_DEFAULT_REGION="<region>"
 export VPC_ID="<vpc id>"
 export SUBNET_ID="<subnet id>"
+export EFS_ID="<efs id>"
 ```
 
 ## Configure AMI with packer in ami_jenkins
